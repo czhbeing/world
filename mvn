@@ -1,0 +1,1 @@
+mvn spring-boot:run -Djavax.net.ssl.trustStore=C:\Users\blakec\Desktop\mysqlCert\trustStore -Djavax.net.ssl.trustStorePassword=Trus1St0re -Djavax.net.ssl.keyStore=C:\Users\blakec\Desktop\mysqlCert\keyStore -Djavax.net.ssl.keyStorePassword=Key2St0re
